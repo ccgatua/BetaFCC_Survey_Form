@@ -1,0 +1,16 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 1em;
+	background-color: #E3F0FB;
+	border-radius: 4px;
+	padding: 10px;
+}
+h1 {
+	font-size: 1.8em;
+	font-family: 'Mystery Quest', cursive;
+	text-align-last: center;
+}
+.block {
+	background-color: rgba(0, 0, 0, 0.1);
+    opacity:.99;
+}
